@@ -1,6 +1,6 @@
 ---
 hero:
-  title: jsBan Front-end Blog
+  title: Guoxiang's Front-end Blog
   desc: About front-end, node
   actions:
     - text: Go to Blog Now
@@ -15,4 +15,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-# Welcome to jsBan frontend Blog and Skill Sharing
+# Welcome to Guoxiang's frontend Blog and Skill Sharing
